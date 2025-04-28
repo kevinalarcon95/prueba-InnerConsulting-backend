@@ -1,0 +1,159 @@
+{
+  "inscripciones": [
+    {
+      "id": "1a23",
+      "data": {
+        "name": "Laura Sofía Martínez",
+        "email": "laura.martinez@example.com",
+        "semester": 5,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "28/04/2025"
+      }
+    },
+    {
+      "id": "2b34",
+      "data": {
+        "name": "Andrés Felipe Rojas",
+        "email": "andres.rojas@example.com",
+        "semester": 7,
+        "person": true,
+        "personName": "María Rojas",
+        "termsAndConditions": true,
+        "date": "26/04/2025"
+      }
+    },
+    {
+      "id": "3c45",
+      "data": {
+        "name": "Daniela Gómez Castillo",
+        "email": "daniela.gomez@example.com",
+        "semester": 4,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "27/04/2025"
+      }
+    },
+    {
+      "id": "4d56",
+      "data": {
+        "name": "Esteban Morales Sánchez",
+        "email": "esteban.morales@example.com",
+        "semester": 8,
+        "person": true,
+        "personName": "Santiago Morales",
+        "termsAndConditions": true,
+        "date": "25/04/2025"
+      }
+    },
+    {
+      "id": "5e67",
+      "data": {
+        "name": "Camila Torres Pineda",
+        "email": "camila.torres@example.com",
+        "semester": 3,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "29/04/2025"
+      }
+    },
+    {
+      "id": "6f78",
+      "data": {
+        "name": "Sebastián Martínez Quintero",
+        "email": "sebastian.mq@example.com",
+        "semester": 2,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "28/04/2025"
+      }
+    },
+    {
+      "id": "7g89",
+      "data": {
+        "name": "Isabella Herrera",
+        "email": "isabella.herrera@example.com",
+        "semester": 9,
+        "person": true,
+        "personName": "Lucía Herrera",
+        "termsAndConditions": true,
+        "date": "26/04/2025"
+      }
+    },
+    {
+      "id": "8h90",
+      "data": {
+        "name": "Mateo Ruiz",
+        "email": "mateo.ruiz@example.com",
+        "semester": 6,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "27/04/2025"
+      }
+    },
+    {
+      "id": "9i01",
+      "data": {
+        "name": "Valentina Salazar",
+        "email": "valentina.salazar@example.com",
+        "semester": 1,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "28/04/2025"
+      }
+    },
+    {
+      "id": "0j12",
+      "data": {
+        "name": "Tomás Fernández",
+        "email": "tomas.fernandez@example.com",
+        "semester": 10,
+        "person": true,
+        "personName": "Miguel Fernández",
+        "termsAndConditions": true,
+        "date": "25/04/2025"
+      }
+    },
+    {
+      "id": "aa23",
+      "data": {
+        "name": "Mariana Díaz",
+        "email": "mariana.diaz@example.com",
+        "semester": 5,
+        "person": false,
+        "personName": "",
+        "termsAndConditions": true,
+        "date": "29/04/2025"
+      }
+    },
+    {
+      "id": "bb34",
+      "data": {
+        "name": "Juan José Pardo",
+        "email": "juan.pardo@example.com",
+        "semester": 2,
+        "person": true,
+        "personName": "Luis Pardo",
+        "termsAndConditions": true,
+        "date": "27/04/2025"
+      }
+    },
+    {
+      "id": "c16e",
+      "data": {
+        "name": "Kevin Fernando Alarcón Camayo",
+        "email": "kevinalarcon95@gmail.com",
+        "semester": 10,
+        "person": false,
+        "termsAndConditions": true,
+        "date": "27/04/2025"
+      }
+    }
+  ]
+}
